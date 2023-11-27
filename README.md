@@ -14,7 +14,7 @@ This project serves as an introduction to front-end web development. It focuses 
 - Clean and organized code structure
 
 ## Getting Started
-1. Clone this repository: `git clone https://github.com/your-username/amazon-clone.git`
+1. Clone this repository: `https://github.com/Shabnum7/Amazon-Clone.git`
 2. Open `index.html` in your preferred web browser.
 
 ## Project Structure
